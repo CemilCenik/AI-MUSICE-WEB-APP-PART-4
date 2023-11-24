@@ -1,0 +1,14 @@
+canvas
+{
+    border:5px solid white;
+    border-radius:20px;
+    margin-top: 80px;
+}
+
+body
+{
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:center;
+    background-repeat: no-repeat;
+}
